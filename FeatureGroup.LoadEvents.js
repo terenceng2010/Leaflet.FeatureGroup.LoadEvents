@@ -55,7 +55,7 @@
             delete this._id2ldg[id];
         }
 
-        return FGp.removeLayer.apply(this.arguments);
+        return FGp.removeLayer.apply(this, arguments);
     }
 
     // Private details
