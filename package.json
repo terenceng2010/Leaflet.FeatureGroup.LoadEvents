@@ -1,0 +1,9 @@
+{
+  "name": "leaflet.featuregroup.loadevents",
+  "version": "1.0.0",
+  "description": "FeatureGroup that fires \"loading\" and \"load\" events.",
+  "main": "FeatureGroup.LoadEvents.js",
+  "author": "Terence Ng",
+  "license": "ISC",
+  "repository":"github:terenceng2010/Leaflet.FeatureGroup.LoadEvents"
+}
